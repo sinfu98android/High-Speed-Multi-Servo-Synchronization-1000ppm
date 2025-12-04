@@ -37,6 +37,9 @@ Full system design, implementation, tuning, test validation.<br>
 <br>
 Due to NDA, I cannot share machine videos — but I can share the architecture I personally designed and implemented.
 
+## Contact 
+[Linkedin - Yudi Hariyanto](https://www.linkedin.com/in/yudi-hariyanto-2732462a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>
+Feel free to contact for questions, collaborations, or technical discussion
 
 
 
