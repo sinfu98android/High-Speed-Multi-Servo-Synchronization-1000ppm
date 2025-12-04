@@ -20,6 +20,15 @@ End-to-end electronic camshaft replacement system achieving 1000 ppm cutting and
 - Dedicated PLC-Servo protocol<br>
 - Fully deterministic timing<br>
 - End-to-end latency: ~2 ms<br>
+
+## Impact 
+
+- Achieved 1000 ppm designed throughput, with stable 600 ppm real production<br>
+- Eliminated all human intervention — necessary because thin paper tears easily at high speed.<br>
+- Fully automated the feed, cut, registration, and glue/heater process.<br>
+- Built a brand-agnostic servo architecture, reducing dependency on proprietary hardware.<br>
+- Lowered machine cost by more than 50% compared to existing equipment.<br>
+- Delivered faster ROI for customers due to reduced labor, higher uptime, and lower hardware cost.<br>
 ## My Contribution
 Full system design, implementation, tuning, test validation.<br>
 
