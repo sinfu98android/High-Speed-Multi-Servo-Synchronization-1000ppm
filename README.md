@@ -24,8 +24,9 @@ End-to-end electronic camshaft replacement system achieving 1000 ppm cutting and
 Full system design, implementation, tuning, test validation.<br>
 
 ## Diagram
-
-
+![system Architecture Diagram](https://github.com/sinfu98android/High-Speed-Multi-Servo-Synchronization/blob/b6749d74decd6ab212c0413ad3d1393b236bba14/System%20Architect%20Diagram.jpg)
+<br>
+Due to NDA, I cannot share machine videos — but I can share the architecture I personally designed and implemented.
 
 
 
